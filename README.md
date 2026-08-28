@@ -1,6 +1,6 @@
 # AI Career Assistant for Resume-JD Matching & ATS Optimization
 
-![AI Career Assistant ATS Matching](AI%20Career%20Assistant.png)
+![AI Career Assistant ATS Matching](image.png)
 
 ## Overview
 
