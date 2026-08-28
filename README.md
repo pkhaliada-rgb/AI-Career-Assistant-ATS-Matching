@@ -1,6 +1,8 @@
 # AI Career Assistant for Resume-JD Matching & ATS Optimization
 
-![AI Career Assistant ATS Matching](image.png)
+<p align="center">
+  <img src="image.png" alt="AI Career Assistant ATS Matching" width="600">
+</p>
 
 ## Overview
 
