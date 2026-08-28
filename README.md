@@ -1,5 +1,7 @@
 # AI Career Assistant for Resume-JD Matching & ATS Optimization
 
+![AI Career Assistant ATS Matching](AI%20Career%20Assistant.png)
+
 ## Overview
 
 An AI-powered career support platform for comparing resumes with job descriptions, calculating ATS-style match scores, identifying missing skills, customizing resume content, generating cover-letter drafts, and tracking job applications.
